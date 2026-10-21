@@ -9,7 +9,7 @@ export default async function Post({
   return (
     <div>
       <h3>Post #{id}</h3>
-      <p>Lorem ipsum</p>
+      <p>Lorem ipsum dolor sit amet</p>
       <Link href="/blog">Back to blog</Link>
     </div>
   );
